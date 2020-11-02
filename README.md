@@ -20,7 +20,7 @@
 
  - Step-2: Swap DAI Token for another ERC20 Token [Done via UniSwap-Router]
 
- [DAI to USDC Swap with Router](./images/v2_swaps.png)
+ ![DAI to USDC Swap with Router](./images/v2_swaps.png)
 
 ## Usecase-2 - Personal Token to USDC Swap with Router:
 
