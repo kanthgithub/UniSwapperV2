@@ -35,7 +35,7 @@
  - Step-3: Swap Personal Token for another ERC20 Token [Done via UniSwap-Router]
 
 
-## Usecase-1 Steps:
+## Usecase-2 Steps:
 
 1. Approve spending on Lakshmikanth tokens for UniSwapRouterV02
 
@@ -78,5 +78,4 @@
  - Etherscan:
 
  - Function Log from Etherscan:
- 
-  
+
